@@ -5,6 +5,7 @@ pizza/margherita.md
 pizza/capricciosa.md
 
 PRIMI
+primi/spaghetti_carbonara.md
 primi/bucatini_matriciana.md
 
 
